@@ -8,13 +8,10 @@ The data has been generated with DeviaTE software. There are 26 lineages of *Pot
 ## Methods
 ### master/script/
 A python script was written to analyze the rate of nonysonmous and sysnonymous changes occuring in repetive histone genes and compare sexual and asexual snail lineages.
-### master/analysis/
-Rstudio was used to create boxplots and run non parameteric statistical tests.
+
 ## Results
 ### master/output/
-The python script procuded NS_results.tx. 
-
-R analysis results indclude 2 tables of compiled non parameteric statical tests and 4 figures. 
+The python script procuded NS_results.txt that was broken down into 6 columns ([Snail] Lineage, Ploidy, Histone, Nonsynonymous changes, Synonymous changes, and  Nonsynonymous changes per synonymous change). This is the extent of the script. From here, more analysis using R was done by someone else.
 
 ## Conclusion 
 At the start of this research, the following questions were raised:
