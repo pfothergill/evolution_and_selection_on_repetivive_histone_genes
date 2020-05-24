@@ -1,0 +1,1 @@
+	H2A	H2B	H3	H4	All Chi^2	3.1215	6.7804	2.9449	3.5688	12.624P-value 0.21	0.0337	0.2294	0.1679	0.001814Result 	Fail	Reject 	Fail	Fail	Reject

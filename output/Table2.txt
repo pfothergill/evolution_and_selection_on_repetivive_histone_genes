@@ -1,0 +1,1 @@
+	H2A	H2B	H3	H4	AllW	62	49	59	57	974P-value 0.1061	0.02824	0.08113	0.06704	0.003359Result 	Fail   Reject 	Fail	Fail  	Reject
